@@ -1,0 +1,16 @@
+.env
+.env*
+!.env.example
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.streamlit/secrets.toml
+*.log
+logs/
+*.pkl
+openphish_cache.txt
+openphish.txt
+*.sql
+*.db
+*.sqlite3
